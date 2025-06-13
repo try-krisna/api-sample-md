@@ -1,4 +1,12 @@
+---
+description: Creating a new pet
+---
+
 # Pets
+
+## Creating a new pet
+
+
 
 ## Creating a new pet
 
