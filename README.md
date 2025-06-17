@@ -1,12 +1,22 @@
 # Welcome!
 
-## Welcome to MyAPI
+## <mark style="color:green;">Welcome to MyAPI</mark>
 
 Welcome to MyAPI! Here you'll find all the documentation you need to get up and running with the MyAPI API.
 
 ## Want to jump right in?
 
+{% hint style="warning" %}
+Wearning
+
+I am testing hint
+{% endhint %}
+
+
+
 Feeling like an eager beaver? Jump in to the quick start docs and get making your first request:
+
+> Hello I am quote
 
 {% content-ref url="quick-start.md" %}
 [quick-start.md](quick-start.md)
